@@ -1,2 +1,2 @@
-# leftbudget.github.io
-Github Pages Website for leftbudget
+# planningvalue.github.io
+Github Pages Website for planningvalue
